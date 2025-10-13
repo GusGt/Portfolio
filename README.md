@@ -15,8 +15,7 @@ This portfolio includes two main projects highlighting my analytical approach us
 This project explores the global impact of COVID-19 from **2020 to 2022**.  
 Using a dataset of reported cases and deaths by country, I performed **data cleaning**, **aggregations**, and **joins** in SQL to uncover trends such as:
 - Global and regional infection rates  
-- Death rates per population  
-- Top 10 countries with the highest case-to-death ratios  
+- Death rates per population 
 - Year-over-year changes in reported data  
 
 The results were visualized in an **interactive Tableau dashboard** for a clearer understanding of the pandemic’s progression.
@@ -56,5 +55,3 @@ This project showcases my ability to write **efficient SQL queries** to transfor
 - **ETL Techniques:** Extracting, transforming, and preparing structured datasets  
 
 ---
-
-## 📁 Repository Structure
