@@ -218,11 +218,6 @@ FROM Portfolio_Prog..KPI_Procurement
 GROUP BY Supplier, Item_Category
 ORDER BY Supplier
 
-Select Supplier, item_Category, SUM (Defective_Units) AS defective, SUM(Quantity) AS #of
-FROM Portfolio_Prog..KPI_Procurement
-GROUP BY Supplier, Item_Category
-ORDER BY Supplier
-
 WITH actualSaved (Supplier, Item, Quantity, unitPrice, negPrice, totalPrice, actualPrice)
 AS (
 Select Supplier, Item_Category, Quantity, Unit_Price, Negotiated_Price, Quantity * Unit_Price, Quantity * Negotiated_Price
