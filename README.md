@@ -48,6 +48,39 @@ This project showcases my ability to write **efficient SQL queries** to transfor
 
 ---
 
+### 3. Yearly Report & Customer Churn Analysis
+**Tools Used:** SQL, Tableau
+
+#### 🧩 Description
+This project focuses on cleaning and structuring **real estate transaction data** from the Nashville housing market.  
+The goal was to make the dataset **analysis-ready** by performing tasks such as:
+- Analyzed 10,000+ customer records using SQL to identify churn trends, customer engagement patterns, and revenue-driving behaviors across multiple subscription plans. 
+- Conducted demographic and behavioral segmentation analysis using age brackets, login activity, and regional trends to uncover high-risk churn groups and customer usage patterns.
+- Generated revenue-focused insights by analyzing monthly spending patterns across subscription tiers, identifying which customer groups contributed the highest business value. 
+
+This project showcases my ability to write **efficient SQL queries** to transform messy raw data into a reliable dataset for analysis or visualization.
+
+#### 💾 Files
+- [`SQL_Queries`](MainDataPreview.sql): SQL queries used for data cleaning and transformation.
+- [`Raw Data`](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset): Kaggle Link
+---
+
+### 4. Procurement KPI & Supplier Performance Analysis
+**Tools Used:** SQL, Tableau
+
+#### 🧩 Description
+Analyzed procurement and supplier performance data using SQL to evaluate vendor reliability, negotiated savings, delivery efficiency, monthly purchasing trends, and defective product losses. Built KPI driven reporting queries to uncover cost saving opportunities, supplier risk factors, and operational inefficiencies across multiple vendors and product categories.
+- Developed SQL based procurement KPI analysis across multiple suppliers to evaluate cost efficiency, delivery performance, and product reliability.  
+- Identified supplier-related financial losses exceeding $1M caused by defective inventory and operational inefficiencies.
+- Built monthly trend analysis reports using DATETRUNC() and LAG() to track purchasing fluctuations and month-over-month spending changes. 
+- Optimized reporting structure by consolidating supplier-level procurement metrics into scalable SQL queries for comparative KPI analysis. 
+
+
+#### 💾 Files
+- [`SQL_Queries`](KPI_Study.sql) SQL queries used for data cleaning and transformation.
+- [`Raw Data`](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit): Kaggle Link
+---
+
 ## ⚙️ Skills Demonstrated
 - **SQL:** Joins, CTEs, window functions, data cleaning, and aggregations  
 - **Data Visualization:** Tableau dashboards and interactive reports  
