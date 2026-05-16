@@ -26,6 +26,7 @@ You can explore the interactive dashboard here:
 
 #### 💾 Files
 - [`covid_data_analysis.sql`](CovidProj.sql): Full SQL script used for data cleaning and insights generation.
+- [`Raw Data`](https://ourworldindata.org/covid-deaths)
 
 ---
 
