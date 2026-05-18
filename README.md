@@ -25,7 +25,7 @@ You can explore the interactive dashboard here:
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/gustavo.coloma/viz/CovidPort/Dashboard1?publish=yes)
 
 #### 💾 Files
-- [`covid_data_analysis.sql`](CovidProj.sql): Full SQL script used for data cleaning and insights generation.
+- [`covid_data_analysis.sql`](https://github.com/GusGt/Portfolio/blob/main/CovidProj/CovidProj.sql): Full SQL script used for data cleaning and insights generation.
 - [`Raw Data`](https://ourworldindata.org/covid-deaths)
 
 ---
@@ -45,7 +45,7 @@ The goal was to make the dataset **analysis-ready** by performing tasks such as:
 This project showcases my ability to write **efficient SQL queries** to transform messy raw data into a reliable dataset for analysis or visualization.
 
 #### 💾 Files
-- [`nashville_housing_data_cleaning.sql`](DataCleaningQueries(NashVille).sql): SQL queries used for data cleaning and transformation.
+- [`nashville_housing_data_cleaning.sql`](https://github.com/GusGt/Portfolio/blob/main/Nashville(Realty)/DataCleaningQueries(NashVille).sql): SQL queries used for data cleaning and transformation.
 
 ---
 
@@ -62,7 +62,7 @@ The goal was to make the dataset **analysis-ready** by performing tasks such as:
 This project showcases my ability to write **efficient SQL queries** to transform messy raw data into a reliable dataset for analysis or visualization.
 
 #### 💾 Files
-- [`SQL_Queries`](MainDataPreview.sql): SQL queries used for data cleaning and transformation.
+- [`SQL_Queries`](https://github.com/GusGt/Portfolio/blob/main/CustomerChurn(subsc)/MainDataPreview.sql): SQL queries used for data cleaning and transformation.
 - [`Raw Data`](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset): Kaggle Link
 ---
 
@@ -78,7 +78,7 @@ Analyzed procurement and supplier performance data using SQL to evaluate vendor 
 
 
 #### 💾 Files
-- [`SQL_Queries`](KPI_Study.sql) SQL queries used for data cleaning and transformation.
+- [`SQL_Queries`](https://github.com/GusGt/Portfolio/blob/main/KPIs-Study/KPI_Study.sql) SQL queries used for data cleaning and transformation.
 - [`Raw Data`](https://www.kaggle.com/datasets/waddahali/e-commerce-customer-churn-audit): Kaggle Link
 ---
 
